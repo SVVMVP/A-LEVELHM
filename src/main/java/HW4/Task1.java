@@ -1,4 +1,4 @@
-package HM4;
+package HW4;
 
 import java.util.Random;
 

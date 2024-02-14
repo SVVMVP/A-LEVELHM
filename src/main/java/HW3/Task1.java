@@ -1,4 +1,4 @@
-package HM3;
+package HW3;
 
 public class Task1 {public static void main(String[] args) {
     String originalString = "A man a plan a canal Panama";

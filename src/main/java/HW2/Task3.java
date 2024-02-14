@@ -1,4 +1,4 @@
-package HM2;
+package HW2;
 
 public class Task3 { public static void main(String[] args) {
     // Задаємо три  числа

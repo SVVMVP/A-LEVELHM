@@ -1,4 +1,4 @@
-package HM5;
+package HW5;
 
 public class Task2 {public static void main(String[] args) {
     // Заданий масив

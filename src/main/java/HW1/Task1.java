@@ -1,4 +1,4 @@
-package HM1;
+package HW1;
 
 public class Task1{  public static void main(String[] args) {
     // Задаємо змінні для ім'я, віку та ваги

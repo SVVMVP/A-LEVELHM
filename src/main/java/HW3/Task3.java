@@ -1,4 +1,4 @@
-package HM3;
+package HW3;
 
 public class Task3 {
 }

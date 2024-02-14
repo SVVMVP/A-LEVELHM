@@ -1,4 +1,4 @@
-package HM6;
+package HW6;
 
 public class Task1  {public static class Phone {
     private String number;
