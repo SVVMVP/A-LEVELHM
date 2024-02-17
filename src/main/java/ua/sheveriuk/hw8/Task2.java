@@ -1,4 +1,4 @@
-package HW8;
+package ua.sheveriuk.hw8;
 
 public class Task2 {public static void main(String[] args) {
     // Реалізація функціонального інтерфейсу через лямбда-вираз
