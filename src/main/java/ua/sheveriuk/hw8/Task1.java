@@ -1,4 +1,4 @@
-package HW8;
+package ua.sheveriuk.hw8;
 
 public class Task1 {
     public static void main(String[] args) {
