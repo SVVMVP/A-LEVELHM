@@ -1,4 +1,4 @@
-package HM2;
+package ua.sheveriuk.hw2;
 
 public class Task1{ public static void main(String[] args) {
     // Задаємо координати вершин  A, B, C

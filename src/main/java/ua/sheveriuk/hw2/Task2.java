@@ -1,4 +1,4 @@
-package HM2;
+package ua.sheveriuk.hw2;
 
 public class Task2 {public static void main(String[] args) {
     // Задаємо число
