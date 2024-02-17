@@ -1,4 +1,4 @@
-package HM5;
+package ua.sheveriuk.hw5;
 
 public class Task1 { public static void main(String[] args) {
     // Задаємо розмір двовимірного масиву
