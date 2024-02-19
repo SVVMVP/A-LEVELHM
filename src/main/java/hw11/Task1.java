@@ -1,4 +1,5 @@
-package HW11;
+package hw11;
+
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
