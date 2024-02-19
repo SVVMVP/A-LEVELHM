@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Task2 {
-
     // Method to return the sum of elements in the list
     public static int getSum(List<Integer> numbers) {
         int sum = 0;
